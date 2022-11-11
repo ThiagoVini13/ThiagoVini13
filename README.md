@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @ThiagoVini13
-- 👀 I’m interested in back-end development.
-- 🌱 I’m currently learning Java for Android Development.
-- 📫 How to reach me through my email: thiago7313vini@gmail.com
-
-<!---
-ThiagoVini13/ThiagoVini13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Olá, me chamo Thiago Vinicius!
+- Atualmente estou no 2° Periodo de Sitemas de Informação na PUC Minas. Também sou Técnico em Eletrônica pela Fundação Matias Machline (FMM).
+- Estou em busca de um estágio em desenvolvimento, como minha primeira experiência.
+- Possuo habilidades em Javascript, HMTL5, CSS3, C, C++ e Arduino.
+- Se quiser entrar em contato comigo, envie um e-mail para: thiago7313vini@gmail.com 
