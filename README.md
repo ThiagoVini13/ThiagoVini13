@@ -1,5 +1,4 @@
 - Olá, me chamo Thiago Vinicius!
-- Atualmente estou no 2° Periodo de Sitemas de Informação na PUC Minas. Também sou Técnico em Eletrônica pela Fundação Matias Machline (FMM).
-- Estou em busca de um estágio em desenvolvimento, como minha primeira experiência.
-- Possuo habilidades em Javascript, HMTL5, CSS3, C, C++ e Arduino.
+- Atualmente estou no 3° Periodo de Sistemas de Informação na PUC Minas. 
+- Possuo habilidades em Javascript, HMTL5, CSS3.
 - Se quiser entrar em contato comigo, envie um e-mail para: thiago7313vini@gmail.com 
