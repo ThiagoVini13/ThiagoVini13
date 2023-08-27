@@ -1,4 +1,1 @@
-- Olá, me chamo Thiago Vinicius!
-- Atualmente estou no 3° Periodo de Sistemas de Informação na PUC Minas. 
-- Possuo habilidades em Javascript, HMTL5, CSS3.
-- Se quiser entrar em contato comigo, envie um e-mail para: thiago7313vini@gmail.com 
+
